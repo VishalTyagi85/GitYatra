@@ -34,3 +34,34 @@ Welcome to **GitYatra!** This repository is a practice space for learning and ma
 - Always **commit** and **push** changes regularly to keep your repository updated.
 
 ---
+
+# 2️⃣ Basic Git Commands
+
+Here are some basic Git commands that you will frequently use:
+
+```sh
+# Initialize a new Git repository
+git init
+
+# Clone an existing repository
+git clone <repository_url>
+
+# Check repository status
+git status
+
+# Add files to the staging area
+git add <filename>
+
+git add .  # Add all files
+
+# Commit changes with a message
+git commit -m "Your commit message"
+
+# Push changes to GitHub
+git push origin main
+
+# Pull the latest changes from remote repository
+git pull origin main
+```
+
+More sections like **Branching & Merging**, **Pull Requests**, and **Best Practices** will be added soon! 🚀
